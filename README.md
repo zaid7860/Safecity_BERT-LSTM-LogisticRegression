@@ -3,7 +3,7 @@
 
 
 ## Citation
-If you find this dataset and code helpful, please consider citing [our paper](http://arxiv.org/abs/1809.04739).
+The dataset has been taken from this phenominal paper(http://arxiv.org/abs/1809.04739).
 
 
 # Requirements:
