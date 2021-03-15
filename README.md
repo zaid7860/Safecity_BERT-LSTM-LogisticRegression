@@ -1,6 +1,6 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
 
-# Safecity_BERT-LogisticRegression
+# Safecity_BERT-LSTM-LogisticRegression
 # SafeCity Data [SafeCity: Understanding Diverse Forms of Sexual Harassment Personal Stories](http://arxiv.org/abs/1809.04739), EMNLP 2018   Authors: Sweta Karlekar &amp; Mohit Bansal, University of North Carolina at Chapel Hill  
 
 
